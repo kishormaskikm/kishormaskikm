@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @kishormaskikm
-- 👀 I’m interested in web_development
-- 🌱 I’m currently learning CSE
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Kishor Maski
+- 👀 ASE at Accenture
+- 🌱 AI Engineer/Backend Developer
 
 <!---
 kishormaskikm/kishormaskikm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
