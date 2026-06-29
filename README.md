@@ -52,8 +52,8 @@ I build backends that talk to LLMs — RAG pipelines, agentic workflows, and LLM
 
 | Project | Stack | What it does |
 |--------|-------|-------------|
-| 🎙️ [Voice-Controlled AI Dev Agent](https://github.com/kishormaskikm) | Python · LangGraph · MongoDB | Speaks a command → agent plans and scaffolds a full project boilerplate |
-| 🧠 [SmartSQL](https://github.com/kishormaskikm) | Python · Streamlit · OpenAI | Natural language → SQL over a 4,200+ record e-commerce database |
+| 🎙️ [Voice-Controlled AI Dev Agent](https://github.com/kishormaskikm/voice-dev-agent) | Python · LangGraph · MongoDB | Speaks a command → agent plans and scaffolds a full project boilerplate |
+| 🧠 [SmartSQL](https://github.com/kishormaskikm/smartsql) | Python · Streamlit · OpenAI | Natural language → SQL over a 4,200+ record e-commerce database |
 
 ---
 
